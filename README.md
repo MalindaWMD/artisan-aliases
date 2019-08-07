@@ -1,5 +1,5 @@
 # Artisan aliases
-Aliases list for every day artisan commands.
+A list of aliases for every day artisan commands.
 
 **Aliases list**
 ```
